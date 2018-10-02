@@ -207,7 +207,7 @@ markdown library & command line tool (in Ruby)
 
 ### Markdown Style Guides / Best Practices
 
-to be done
+- [Ciro Santilli Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/) - A Comprehensive and well-maintained community driven style guide
 
 ### Markdown Lint / Style Rule Checker
 
